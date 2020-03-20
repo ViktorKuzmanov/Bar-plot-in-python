@@ -12,7 +12,7 @@ class Subject:
           self.ifPassed = ifPassed;
 
 # Specify the path of your file
-path = "/Users/viksaa/Desktop/data.csv"
+path = "data.csv"
 googleStockData = open(path, newline='')
 
 reader = csv.reader(googleStockData)
