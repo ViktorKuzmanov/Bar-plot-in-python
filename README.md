@@ -5,7 +5,6 @@ so I made a bar plot of how much time I have invested in each subject at my coll
 
 I'm expecting to gain some interesting insights, that I didn't knew before. 
 
-The subjects data is stored in .csv file.
 Also I colored bars based on if I have passed or failed the subject so far.
 
 
