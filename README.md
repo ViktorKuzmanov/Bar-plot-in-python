@@ -1,11 +1,11 @@
-# Bar-plot-in-python
+# Data-analysis-with-python
 
-Decided I would make use of my data I acquired in the last 3 semesters of college and
-so I made a bar plot of how much time I have invested in each subject at my college(yes I measure this stuff).
+1. bar plot of time invested in subjects.py = Just a bar plot of hours learned at each subject and colored bar based on if I have failed the subject or not
 
-I'm expecting to gain some interesting insights, that I didn't knew before. 
-
-Also I colored bars based on if I have passed or failed the subject so far.
+2. linearFitOfHoursLearnedAndGrades.py = Hours learned and grades data in a graph with their linear fit. 
+Turns out those 2 attributes (hours learned and grades) don't have like any correlation at all, dunno what's wrong with my learning style.
+  
+  
 
 
 
